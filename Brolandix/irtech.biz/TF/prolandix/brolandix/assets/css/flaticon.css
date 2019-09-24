@@ -1,0 +1,65 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 10/03/2019 14:56
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-size: inherit;
+  font-style: normal;
+}
+
+.flaticon-text:before { content: "\f100"; }
+.flaticon-value:before { content: "\f101"; }
+.flaticon-diamond:before { content: "\f102"; }
+.flaticon-rocket:before { content: "\f103"; }
+.flaticon-rocket-1:before { content: "\f104"; }
+.flaticon-secure-shield:before { content: "\f105"; }
+.flaticon-shield:before { content: "\f106"; }
+.flaticon-clock:before { content: "\f107"; }
+.flaticon-alarm-clock:before { content: "\f108"; }
+.flaticon-chat-1:before { content: "\f109"; }
+.flaticon-chat:before { content: "\f10a"; }
+.flaticon-speech-bubble:before { content: "\f10b"; }
+.flaticon-heart:before { content: "\f10c"; }
+.flaticon-rate:before { content: "\f10d"; }
+.flaticon-placeholder:before { content: "\f10e"; }
+.flaticon-location:before { content: "\f10f"; }
+.flaticon-route:before { content: "\f110"; }
+.flaticon-website:before { content: "\f111"; }
+.flaticon-email:before { content: "\f112"; }
+.flaticon-notification:before { content: "\f113"; }
+.flaticon-bell:before { content: "\f114"; }
+.flaticon-android-hand-drawn-logo-outline:before { content: "\f115"; }
+.flaticon-android:before { content: "\f116"; }
+.flaticon-pin:before { content: "\f117"; }
+.flaticon-battery:before { content: "\f118"; }
+.flaticon-charging:before { content: "\f119"; }
+.flaticon-wifi:before { content: "\f11a"; }
+.flaticon-wifi-1:before { content: "\f11b"; }
+.flaticon-compass:before { content: "\f11c"; }
+.flaticon-compass-1:before { content: "\f11d"; }
+.flaticon-photo-camera:before { content: "\f11e"; }
+.flaticon-fingerprint:before { content: "\f11f"; }
+.flaticon-fingerprint-1:before { content: "\f120"; }
+.flaticon-fingerprint-2:before { content: "\f121"; }
