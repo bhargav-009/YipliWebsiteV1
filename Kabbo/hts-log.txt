@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 24 Sep 2019 14:53:25 at http://themazine.com/html/kabbo/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themazine.com/html/kabbo/index.html -O1 "E:\Bhargav\templates\neelotpal4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:58:52	Error: 	"Not Found" (404) at link themazine.com/html/kabbo/.testimonial_slide (from themazine.com/html/kabbo/index.html)
+14:59:32	Error: 	"Not Found" (404) at link themazine.com/html/kabbo/services-2.html (from themazine.com/html/kabbo/portfolio-3.html)
+14:59:32	Error: 	"Not Found" (404) at link themazine.com/html/kabbo/error.html (from themazine.com/html/kabbo/portfolio-3.html)
+14:59:32	Error: 	"Not Found" (404) at link themazine.com/html/kabbo/blog-2.html (from themazine.com/html/kabbo/portfolio-3.html)
+14:59:32	Error: 	"Not Found" (404) at link themazine.com/html/kabbo/.img_slide (from themazine.com/html/kabbo/portfolio-single-2.html)
+14:59:32	Error: 	"Not Found" (404) at link themazine.com/html/kabbo/.shop_slide (from themazine.com/html/kabbo/shop.html)
+14:59:36	Error: 	"Not Found" (404) at link themazine.com/html/kabbo/vendors/owl-carousel/owl.video.play.png (from themazine.com/html/kabbo/vendors/owl-carousel/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 11 seconds : 208 links scanned, 200 files written (9787016 bytes overall) [9531605 bytes received at 25691 bytes/sec], 417074 bytes transferred using HTTP compression in 20 files, ratio 25%, 3.1 requests per connection
+(7 errors, 0 warnings, 0 messages)

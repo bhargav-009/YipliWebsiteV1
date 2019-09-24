@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+aazztech.com	TRUE	/	FALSE	1999999999	PHPSESSID	2cf6d4b7fbd8cc4d48bcd294196ce6e4
+aazztech.com	TRUE	/	FALSE	1999999999	dwqa_anonymous	hErqaPGtR1LPYFAr8MOZ6qprv0jwDBwZgAIhH9hAuoE
+
