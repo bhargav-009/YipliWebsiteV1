@@ -1710,6 +1710,14 @@ sup {
     text-align: center
 }
 
+.showcase h2 {
+    color: #202428;
+    font-weight: 600;
+    margin: 0;
+    font-size: 2.46667rem;
+    text-align: center
+}
+
 .showcase.showcase--title2 {
     background: #fff
 }
@@ -7437,7 +7445,7 @@ footer.footer2 .widget.twit--widget a.checklist.checklist-light:hover .svg {
     padding-right: 0
 }
 
-.menu_area .navbar {
+.menu_area .navbar  {
     padding: 1rem
 }
 
@@ -15883,4 +15891,19 @@ footer.footer7.footer--dark .footer__bottom .footer__bottom-content {
     html {
         font-size: 14px
     }
+}
+
+
+
+/* video css from comingsoon v1 */
+
+.comingsoonv1overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #cd9557;
+  opacity: 0.7;
+  z-index: 1;
 }
